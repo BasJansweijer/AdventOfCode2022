@@ -1,0 +1,3114 @@
+Dir {
+    directories: [
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "tcghw.srg",
+                                                                        276592,
+                                                                    ),
+                                                                ],
+                                                                name: "tfbzq",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "dvght",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "lwvtzd.pws",
+                                                93750,
+                                            ),
+                                            FileStruct(
+                                                "sdwnsgwv.mjm",
+                                                176529,
+                                            ),
+                                            FileStruct(
+                                                "vmpgqbcd",
+                                                100111,
+                                            ),
+                                        ],
+                                        name: "gldnjj",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "jhc",
+                                                            160378,
+                                                        ),
+                                                    ],
+                                                    name: "nblfzrb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "hfm.rfp",
+                                                240217,
+                                            ),
+                                        ],
+                                        name: "vhf",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "cmfdm",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "slpgmhv",
+                                                122570,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                278461,
+                                            ),
+                                        ],
+                                        name: "dwqncqp",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "gfprhn.rjj",
+                                                334830,
+                                            ),
+                                        ],
+                                        name: "hnnfdtbh",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "fgb.btb",
+                                                179593,
+                                            ),
+                                        ],
+                                        name: "jhc",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "hnn",
+                                                            285825,
+                                                        ),
+                                                        FileStruct(
+                                                            "nblfzrb.wvr",
+                                                            238272,
+                                                        ),
+                                                    ],
+                                                    name: "clbcgvhc",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "nblfzrb.svz",
+                                                            99731,
+                                                        ),
+                                                    ],
+                                                    name: "jhc",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fsthnpmd",
+                                                            257843,
+                                                        ),
+                                                    ],
+                                                    name: "lsrnz",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zlnbcwr",
+                                                            278117,
+                                                        ),
+                                                    ],
+                                                    name: "mctd",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "nblfzrb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "hbzvzwpr",
+                                                            193573,
+                                                        ),
+                                                    ],
+                                                    name: "pqwml",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "jhc",
+                                                40349,
+                                            ),
+                                            FileStruct(
+                                                "sdwnsgwv.mjm",
+                                                173804,
+                                            ),
+                                        ],
+                                        name: "zwv",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "bnddfgrb",
+                                    305358,
+                                ),
+                                FileStruct(
+                                    "scnm.qbf",
+                                    327762,
+                                ),
+                                FileStruct(
+                                    "vmpgqbcd",
+                                    165080,
+                                ),
+                                FileStruct(
+                                    "vzgwwjq.zbp",
+                                    190041,
+                                ),
+                            ],
+                            name: "cqd",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "mqpg",
+                                                                        99806,
+                                                                    ),
+                                                                ],
+                                                                name: "fst",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "jhc",
+                                                                                                258373,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "vmdbpwj",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "vzgwwjq.zbp",
+                                                                                                18241,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "zvspnvfr",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                            files: [],
+                                                                            name: "dnsvsp",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "jhc.dfd",
+                                                                        218828,
+                                                                    ),
+                                                                ],
+                                                                name: "gpjz",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "chdfwj",
+                                                                        20383,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "prrlv.rvn",
+                                                                        63309,
+                                                                    ),
+                                                                ],
+                                                                name: "gzd",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "qhh",
+                                                                        291753,
+                                                                    ),
+                                                                ],
+                                                                name: "hfm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "gzbm",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "gjslw",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "hfm.hpn",
+                                                29042,
+                                            ),
+                                            FileStruct(
+                                                "mpc",
+                                                184043,
+                                            ),
+                                            FileStruct(
+                                                "sdwnsgwv.mjm",
+                                                230539,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                803,
+                                            ),
+                                        ],
+                                        name: "gwz",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "pfltqw.zvc",
+                                                44312,
+                                            ),
+                                        ],
+                                        name: "ljvrjp",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "sdwnsgwv.mjm",
+                                                321945,
+                                            ),
+                                        ],
+                                        name: "sltlpb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "twbbg.ftq",
+                                                7774,
+                                            ),
+                                            FileStruct(
+                                                "zpqbp.cts",
+                                                109546,
+                                            ),
+                                        ],
+                                        name: "vbsnq",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "gvwvs",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "fst",
+                                    89034,
+                                ),
+                                FileStruct(
+                                    "sdwnsgwv.mjm",
+                                    338143,
+                                ),
+                                FileStruct(
+                                    "vmpgqbcd",
+                                    130661,
+                                ),
+                                FileStruct(
+                                    "vrj.zlb",
+                                    130071,
+                                ),
+                            ],
+                            name: "nblfzrb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fpqfgs.gdl",
+                                                            271817,
+                                                        ),
+                                                    ],
+                                                    name: "nblfzrb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "sdwnsgwv.mjm",
+                                                                                    244565,
+                                                                                ),
+                                                                            ],
+                                                                            name: "fsgdq",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "rdvvrjf.fwz",
+                                                                                    200989,
+                                                                                ),
+                                                                            ],
+                                                                            name: "grj",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [],
+                                                                name: "hfm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "bvf",
+                                                                                    159263,
+                                                                                ),
+                                                                            ],
+                                                                            name: "fnzztppm",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "jhc.mtl",
+                                                                        21425,
+                                                                    ),
+                                                                ],
+                                                                name: "mdftsf",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "zvspnvfr",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "wznwjfw",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "fwmfmtt.hdg",
+                                    327853,
+                                ),
+                                FileStruct(
+                                    "vdjs",
+                                    151272,
+                                ),
+                                FileStruct(
+                                    "zlnbcwr",
+                                    75692,
+                                ),
+                            ],
+                            name: "nfm",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "qwnml.bqn",
+                        293979,
+                    ),
+                    FileStruct(
+                        "sdwnsgwv.mjm",
+                        159220,
+                    ),
+                    FileStruct(
+                        "vzgwwjq.zbp",
+                        327978,
+                    ),
+                    FileStruct(
+                        "zvspnvfr.zbc",
+                        155479,
+                    ),
+                ],
+                name: "btsgrbd",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "ldwwls",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "nblfzrb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "zvspnvfr",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "zwv",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "gfprhn.rjj",
+                        295086,
+                    ),
+                    FileStruct(
+                        "sdwnsgwv.mjm",
+                        175977,
+                    ),
+                ],
+                name: "gcbpcf",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "pwcmhcf.lwz",
+                                                            13452,
+                                                        ),
+                                                    ],
+                                                    name: "cpll",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "zlnbcwr",
+                                                                                    163670,
+                                                                                ),
+                                                                            ],
+                                                                            name: "ltrc",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "mttr.szf",
+                                                                                                224488,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "brpzhf",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "fst",
+                                                                                    61846,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "vccrmc.jbd",
+                                                                                    66356,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "vmpgqbcd",
+                                                                                    72767,
+                                                                                ),
+                                                                            ],
+                                                                            name: "nblfzrb",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "vhwnz",
+                                                                        326613,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "vzgwwjq.zbp",
+                                                                        244908,
+                                                                    ),
+                                                                ],
+                                                                name: "nblfzrb",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "gfprhn.rjj",
+                                                                                                8014,
+                                                                                            ),
+                                                                                            FileStruct(
+                                                                                                "ppn.qbv",
+                                                                                                168688,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "jng",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [
+                                                                                            RefCell {
+                                                                                                value: Dir {
+                                                                                                    directories: [],
+                                                                                                    files: [
+                                                                                                        FileStruct(
+                                                                                                            "fst.nrv",
+                                                                                                            102559,
+                                                                                                        ),
+                                                                                                        FileStruct(
+                                                                                                            "trqrlrw.jmc",
+                                                                                                            269697,
+                                                                                                        ),
+                                                                                                    ],
+                                                                                                    name: "bhgstrdl",
+                                                                                                    size_cache: 0,
+                                                                                                },
+                                                                                            },
+                                                                                        ],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "dggwnqp.fpl",
+                                                                                                138108,
+                                                                                            ),
+                                                                                            FileStruct(
+                                                                                                "gfprhn.rjj",
+                                                                                                303194,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "vfc",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "fst.twf",
+                                                                                    264421,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "rnt.dlp",
+                                                                                    81009,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "sftvd",
+                                                                                    288053,
+                                                                                ),
+                                                                            ],
+                                                                            name: "nmb",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "bfmhl.cwj",
+                                                                        131534,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "hhznnd",
+                                                                        261143,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "vnmwgflj.rhp",
+                                                                        74816,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "wdzfzcss.fdc",
+                                                                        251308,
+                                                                    ),
+                                                                ],
+                                                                name: "rqssg",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "fst",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "zvspnvfr.dqv",
+                                                                                    149417,
+                                                                                ),
+                                                                            ],
+                                                                            name: "nblfzrb",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [],
+                                                                name: "bcj",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "vmpgqbcd",
+                                                                                    114747,
+                                                                                ),
+                                                                            ],
+                                                                            name: "fst",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [],
+                                                                                        name: "nvvppmls",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [],
+                                                                                        name: "phpq",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [],
+                                                                                        name: "rld",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "hfm.nmw",
+                                                                                                158739,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "cdsmgjdb",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                            files: [],
+                                                                            name: "hfm",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "hfm.hjj",
+                                                                                    274026,
+                                                                                ),
+                                                                            ],
+                                                                            name: "phpq",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "hsnngd.tqw",
+                                                                                    237915,
+                                                                                ),
+                                                                            ],
+                                                                            name: "rld",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "fcq.mmz",
+                                                                        147054,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "jcsjjj.mvg",
+                                                                        110840,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "vzgwwjq.zbp",
+                                                                        75746,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "zlnbcwr",
+                                                                        333085,
+                                                                    ),
+                                                                ],
+                                                                name: "cqjmmr",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [],
+                                                                name: "gqm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [],
+                                                                name: "hbqfms",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [],
+                                                                name: "nmgbfhmq",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fst.tjf",
+                                                            256392,
+                                                        ),
+                                                        FileStruct(
+                                                            "gfprhn.rjj",
+                                                            7079,
+                                                        ),
+                                                        FileStruct(
+                                                            "pvdtbdj",
+                                                            57962,
+                                                        ),
+                                                        FileStruct(
+                                                            "sdwnsgwv.mjm",
+                                                            117035,
+                                                        ),
+                                                        FileStruct(
+                                                            "zlnbcwr",
+                                                            64208,
+                                                        ),
+                                                    ],
+                                                    name: "nblfzrb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [],
+                                                    name: "sbnplvz",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [],
+                                                    name: "vsd",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "vzgwwjq.zbp",
+                                                            188469,
+                                                        ),
+                                                    ],
+                                                    name: "gqm",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fst",
+                                                            127163,
+                                                        ),
+                                                    ],
+                                                    name: "hbqfms",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "gbtwdctn.drw",
+                                                                        267774,
+                                                                    ),
+                                                                ],
+                                                                name: "hfm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "gfprhn.rjj",
+                                                                        189769,
+                                                                    ),
+                                                                ],
+                                                                name: "zvspnvfr",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "gczqzbbd",
+                                                            257647,
+                                                        ),
+                                                    ],
+                                                    name: "nmgbfhmq",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "wlzbsdh",
+                                                307662,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                194873,
+                                            ),
+                                        ],
+                                        name: "fst",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [],
+                                        name: "mfmcqhbz",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [],
+                                        name: "pdblpszb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zlnbcwr",
+                                                            161029,
+                                                        ),
+                                                    ],
+                                                    name: "bln",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fst",
+                                                            333565,
+                                                        ),
+                                                    ],
+                                                    name: "fst",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "gfprhn.rjj",
+                                                                        143723,
+                                                                    ),
+                                                                ],
+                                                                name: "zvpp",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "hdv",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "bwzrcghg.zwq",
+                                                                        249321,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "zlnbcwr",
+                                                                        38324,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "zvspnvfr.jwn",
+                                                                        149647,
+                                                                    ),
+                                                                ],
+                                                                name: "hfm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "bdmtgt",
+                                                                        113118,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "bthznc.bjt",
+                                                                        299110,
+                                                                    ),
+                                                                ],
+                                                                name: "hnqpwnfb",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "hfm.wnw",
+                                                                        176495,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "mqds",
+                                                                        333817,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "vqsmz.cbd",
+                                                                        208755,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "zltfds",
+                                                                        298875,
+                                                                    ),
+                                                                ],
+                                                                name: "jqgfcmjn",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "brfmpbwn",
+                                                                        186649,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "cgdhzzl.bvg",
+                                                                        43322,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "zlnbcwr",
+                                                                        56230,
+                                                                    ),
+                                                                ],
+                                                                name: "mqj",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "zvspnvfr.dqq",
+                                                                                    308070,
+                                                                                ),
+                                                                            ],
+                                                                            name: "dtsg",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "rjgvt.sgc",
+                                                                        343453,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "vmpgqbcd",
+                                                                        313784,
+                                                                    ),
+                                                                ],
+                                                                name: "slsq",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "psdd.ftf",
+                                                            312345,
+                                                        ),
+                                                        FileStruct(
+                                                            "thvhdmm.rpq",
+                                                            319904,
+                                                        ),
+                                                        FileStruct(
+                                                            "vzgwwjq.zbp",
+                                                            317429,
+                                                        ),
+                                                    ],
+                                                    name: "jhc",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "glqszhnp",
+                                                                        278754,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "sdwnsgwv.mjm",
+                                                                        199713,
+                                                                    ),
+                                                                ],
+                                                                name: "zvspnvfr",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "zdwzgnb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "jhc.zvm",
+                                                31790,
+                                            ),
+                                            FileStruct(
+                                                "mmmjpp",
+                                                102276,
+                                            ),
+                                        ],
+                                        name: "sbnplvz",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "fdrg.cft",
+                                                17978,
+                                            ),
+                                            FileStruct(
+                                                "sdwnsgwv.mjm",
+                                                320284,
+                                            ),
+                                            FileStruct(
+                                                "tpfmtww.jbs",
+                                                230059,
+                                            ),
+                                            FileStruct(
+                                                "vmpgqbcd",
+                                                168301,
+                                            ),
+                                        ],
+                                        name: "vsd",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "hfm",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "nblfzrb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "nrqhstc",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "vwc",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "wlpdphhg",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "zpbh",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [],
+                            name: "zvspnvfr",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "zvspnvfr",
+                                                                        168184,
+                                                                    ),
+                                                                ],
+                                                                name: "cfz",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "hfm.mjh",
+                                                                        286155,
+                                                                    ),
+                                                                ],
+                                                                name: "njptzz",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "vzgwwjq.zbp",
+                                                                        256675,
+                                                                    ),
+                                                                ],
+                                                                name: "rcbps",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "flmgglv.gjw",
+                                                                        91505,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "ftbjzt.lcm",
+                                                                        270377,
+                                                                    ),
+                                                                ],
+                                                                name: "tcqttb",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "rjl.pfg",
+                                                            161994,
+                                                        ),
+                                                        FileStruct(
+                                                            "vmpgqbcd",
+                                                            22809,
+                                                        ),
+                                                        FileStruct(
+                                                            "zvspnvfr.gbw",
+                                                            225782,
+                                                        ),
+                                                    ],
+                                                    name: "cln",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "hfm.mhr",
+                                                235621,
+                                            ),
+                                            FileStruct(
+                                                "qwfwj",
+                                                4347,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                226297,
+                                            ),
+                                        ],
+                                        name: "fst",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "vjcldgfj.twb",
+                                                            342059,
+                                                        ),
+                                                    ],
+                                                    name: "ztrcwjw",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "lwlsnt",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zvspnvfr.zwq",
+                                                            282223,
+                                                        ),
+                                                    ],
+                                                    name: "lmsbg",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "dhlhzzj.sbh",
+                                                326143,
+                                            ),
+                                            FileStruct(
+                                                "nblfzrb.nnr",
+                                                13108,
+                                            ),
+                                            FileStruct(
+                                                "vzgwwjq.zbp",
+                                                256325,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                146133,
+                                            ),
+                                        ],
+                                        name: "mqqdst",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "mfmcqhbz",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "sdwnsgwv.mjm",
+                                    167164,
+                                ),
+                            ],
+                            name: "pdblpszb",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "fst.tfn",
+                        220753,
+                    ),
+                    FileStruct(
+                        "mnzlvc.jzw",
+                        154659,
+                    ),
+                    FileStruct(
+                        "zvspnvfr.zqt",
+                        160091,
+                    ),
+                ],
+                name: "hfm",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "nrhm",
+                                    244821,
+                                ),
+                            ],
+                            name: "fbrqvwgr",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [],
+                name: "tfsh",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "hfm.qcd",
+                                                91558,
+                                            ),
+                                        ],
+                                        name: "hjmv",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "dzdd",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "zlnbcwr",
+                                                                                    133426,
+                                                                                ),
+                                                                            ],
+                                                                            name: "dltqbnpq",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [],
+                                                                name: "jhc",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "sdwnsgwv.mjm",
+                                                                                    54117,
+                                                                                ),
+                                                                            ],
+                                                                            name: "clh",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [],
+                                                                name: "jtp",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "rzlt.llb",
+                                                            85638,
+                                                        ),
+                                                    ],
+                                                    name: "dvh",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zwslwbr.chm",
+                                                            75900,
+                                                        ),
+                                                    ],
+                                                    name: "mwfbthpj",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "jrlljc.ntl",
+                                                            307258,
+                                                        ),
+                                                    ],
+                                                    name: "swqbph",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "bmgmh",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "zdjg.qsj",
+                                                106071,
+                                            ),
+                                        ],
+                                        name: "nblfzrb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "zvspnvfr.dqj",
+                                                311338,
+                                            ),
+                                        ],
+                                        name: "zvfg",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "pnsbfz",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "gfprhn.rjj",
+                                                                                    141144,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "hfm",
+                                                                                    65628,
+                                                                                ),
+                                                                            ],
+                                                                            name: "nccq",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [
+                                                                                RefCell {
+                                                                                    value: Dir {
+                                                                                        directories: [],
+                                                                                        files: [
+                                                                                            FileStruct(
+                                                                                                "thcfz.frn",
+                                                                                                141075,
+                                                                                            ),
+                                                                                        ],
+                                                                                        name: "jctw",
+                                                                                        size_cache: 0,
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                            files: [],
+                                                                            name: "rwtddj",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "jhc.hzf",
+                                                                        346048,
+                                                                    ),
+                                                                    FileStruct(
+                                                                        "sdwnsgwv.mjm",
+                                                                        149890,
+                                                                    ),
+                                                                ],
+                                                                name: "nblfzrb",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "bttff",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "cdmwgn",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "cjgh",
+                                                282233,
+                                            ),
+                                        ],
+                                        name: "fqmln",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "vmpgqbcd",
+                                                            132862,
+                                                        ),
+                                                    ],
+                                                    name: "cllgt",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "ccjg.zml",
+                                                153758,
+                                            ),
+                                            FileStruct(
+                                                "ctqdpq.clq",
+                                                257967,
+                                            ),
+                                            FileStruct(
+                                                "jhc",
+                                                117673,
+                                            ),
+                                            FileStruct(
+                                                "wqcz.tww",
+                                                258604,
+                                            ),
+                                            FileStruct(
+                                                "zvspnvfr.grb",
+                                                122135,
+                                            ),
+                                        ],
+                                        name: "gswsc",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "zvspnvfr",
+                                                                        341786,
+                                                                    ),
+                                                                ],
+                                                                name: "lnss",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "bbbsd",
+                                                            155413,
+                                                        ),
+                                                        FileStruct(
+                                                            "jhhmwq",
+                                                            288638,
+                                                        ),
+                                                    ],
+                                                    name: "hfm",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zhcq.gzj",
+                                                            256802,
+                                                        ),
+                                                    ],
+                                                    name: "mlplp",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "nblfzrb",
+                                                231759,
+                                            ),
+                                            FileStruct(
+                                                "pqpbjbqp",
+                                                159823,
+                                            ),
+                                            FileStruct(
+                                                "vzgwwjq.zbp",
+                                                25382,
+                                            ),
+                                        ],
+                                        name: "htpzdb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "nblfzrb.lcc",
+                                                            74595,
+                                                        ),
+                                                    ],
+                                                    name: "cgj",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "zvspnvfr.ldc",
+                                                            167891,
+                                                        ),
+                                                    ],
+                                                    name: "mdb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "bvff.hsf",
+                                                            45889,
+                                                        ),
+                                                        FileStruct(
+                                                            "sdwnsgwv.mjm",
+                                                            92447,
+                                                        ),
+                                                    ],
+                                                    name: "shpdtb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "lvzpqqv",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "mrblf",
+                                                7978,
+                                            ),
+                                        ],
+                                        name: "mlc",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "jhbs",
+                                                38713,
+                                            ),
+                                        ],
+                                        name: "mzbpmhf",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    285733,
+                                ),
+                                FileStruct(
+                                    "jwc",
+                                    261929,
+                                ),
+                                FileStruct(
+                                    "sdwnsgwv.mjm",
+                                    329303,
+                                ),
+                                FileStruct(
+                                    "vmpgqbcd",
+                                    76120,
+                                ),
+                            ],
+                            name: "qjjjgd",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "jhc.qqw",
+                                                88613,
+                                            ),
+                                        ],
+                                        name: "jbbwzd",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                164792,
+                                            ),
+                                        ],
+                                        name: "nblfzrb",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "whrtnh",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "fst.rjm",
+                        18805,
+                    ),
+                    FileStruct(
+                        "gfprhn.rjj",
+                        50694,
+                    ),
+                    FileStruct(
+                        "jlnrm",
+                        55025,
+                    ),
+                    FileStruct(
+                        "zggjjcct.fsz",
+                        28406,
+                    ),
+                ],
+                name: "vlsqgrw",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "hfm.svt",
+                                                113563,
+                                            ),
+                                        ],
+                                        name: "mllqf",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "mzshzw",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "zlnbcwr",
+                        161555,
+                    ),
+                ],
+                name: "nblfzrb",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "zlnbcwr",
+                                                                        159505,
+                                                                    ),
+                                                                ],
+                                                                name: "hqzm",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "jhc",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "pjlj",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "ppptz",
+                                                                        194723,
+                                                                    ),
+                                                                ],
+                                                                name: "nblfzrb",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "dwhjmg",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "tfljr",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "jhc",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "vzgwwjq.zbp",
+                                    194898,
+                                ),
+                            ],
+                            name: "llnqc",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "gfprhn.rjj",
+                                                283460,
+                                            ),
+                                            FileStruct(
+                                                "sqljld",
+                                                148100,
+                                            ),
+                                        ],
+                                        name: "blvfljfn",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "jjlvdvq.mqp",
+                                                62592,
+                                            ),
+                                        ],
+                                        name: "dzpplzl",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "dvd.wvl",
+                                                90578,
+                                            ),
+                                            FileStruct(
+                                                "zqplggf",
+                                                165955,
+                                            ),
+                                        ],
+                                        name: "jhc",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [
+                                                                    RefCell {
+                                                                        value: Dir {
+                                                                            directories: [],
+                                                                            files: [
+                                                                                FileStruct(
+                                                                                    "sdwnsgwv.mjm",
+                                                                                    216547,
+                                                                                ),
+                                                                                FileStruct(
+                                                                                    "zvspnvfr.nvs",
+                                                                                    135235,
+                                                                                ),
+                                                                            ],
+                                                                            name: "nblfzrb",
+                                                                            size_cache: 0,
+                                                                        },
+                                                                    },
+                                                                ],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "pcqs",
+                                                                        9340,
+                                                                    ),
+                                                                ],
+                                                                name: "gffj",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "jbsmwm",
+                                                                        137069,
+                                                                    ),
+                                                                ],
+                                                                name: "pmfwlzn",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "hfm",
+                                                            75682,
+                                                        ),
+                                                        FileStruct(
+                                                            "vzgwwjq.zbp",
+                                                            160494,
+                                                        ),
+                                                    ],
+                                                    name: "jsnrcfbv",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "sdwnsgwv.mjm",
+                                                                        275968,
+                                                                    ),
+                                                                ],
+                                                                name: "hflnbmcd",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [
+                                                        FileStruct(
+                                                            "vzgwwjq.zbp",
+                                                            11899,
+                                                        ),
+                                                        FileStruct(
+                                                            "whmq.ftc",
+                                                            334607,
+                                                        ),
+                                                        FileStruct(
+                                                            "zlnbcwr",
+                                                            347595,
+                                                        ),
+                                                    ],
+                                                    name: "nblfzrb",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "vmpgqbcd",
+                                                            75213,
+                                                        ),
+                                                    ],
+                                                    name: "zvspnvfr",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [
+                                            FileStruct(
+                                                "gbqpdt",
+                                                157908,
+                                            ),
+                                            FileStruct(
+                                                "qlmd.dbq",
+                                                322169,
+                                            ),
+                                        ],
+                                        name: "mcnftw",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [
+                                                        RefCell {
+                                                            value: Dir {
+                                                                directories: [],
+                                                                files: [
+                                                                    FileStruct(
+                                                                        "nblfzrb.mbc",
+                                                                        218236,
+                                                                    ),
+                                                                ],
+                                                                name: "jhc",
+                                                                size_cache: 0,
+                                                            },
+                                                        },
+                                                    ],
+                                                    files: [],
+                                                    name: "jhc",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "nblfzrb",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "qpzfr",
+                                                            134879,
+                                                        ),
+                                                        FileStruct(
+                                                            "zvspnvfr",
+                                                            30171,
+                                                        ),
+                                                    ],
+                                                    name: "cnswqjjd",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fst",
+                                                            209285,
+                                                        ),
+                                                    ],
+                                                    name: "gvmlgjnj",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "ncpchrj",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                201094,
+                                            ),
+                                        ],
+                                        name: "qrdczsdf",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    101118,
+                                ),
+                                FileStruct(
+                                    "hbbnl.nvz",
+                                    116164,
+                                ),
+                                FileStruct(
+                                    "hfm",
+                                    211685,
+                                ),
+                                FileStruct(
+                                    "ttbj",
+                                    165190,
+                                ),
+                                FileStruct(
+                                    "vzgwwjq.zbp",
+                                    190954,
+                                ),
+                            ],
+                            name: "npjd",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    217555,
+                                ),
+                                FileStruct(
+                                    "mrhhpr.gdg",
+                                    66582,
+                                ),
+                            ],
+                            name: "nptwgdbn",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "sdwnsgwv.mjm",
+                                    205347,
+                                ),
+                                FileStruct(
+                                    "vzgwwjq.zbp",
+                                    195976,
+                                ),
+                            ],
+                            name: "rddftb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "zlnbcwr",
+                                    321628,
+                                ),
+                            ],
+                            name: "thfhbhz",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "fst",
+                        84524,
+                    ),
+                    FileStruct(
+                        "nnrwp.shv",
+                        126979,
+                    ),
+                    FileStruct(
+                        "qtn",
+                        133618,
+                    ),
+                    FileStruct(
+                        "vmpgqbcd",
+                        129882,
+                    ),
+                    FileStruct(
+                        "zlnbcwr",
+                        170834,
+                    ),
+                    FileStruct(
+                        "wsfjhlqc.zsj",
+                        234551,
+                    ),
+                ],
+                name: "zvspnvfr",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "hfm",
+                                                66715,
+                                            ),
+                                        ],
+                                        name: "vjtnjt",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "lnqb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "jhc.vpj",
+                                    270833,
+                                ),
+                            ],
+                            name: "tnrtjrlz",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "mtv",
+                        311249,
+                    ),
+                ],
+                name: "zwv",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "dtt",
+                                                4441,
+                                            ),
+                                            FileStruct(
+                                                "jhdqj.tpt",
+                                                115073,
+                                            ),
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                337681,
+                                            ),
+                                        ],
+                                        name: "fst",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "zlnbcwr",
+                                                6491,
+                                            ),
+                                        ],
+                                        name: "tqjgrc",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    328237,
+                                ),
+                                FileStruct(
+                                    "hzv.prf",
+                                    288094,
+                                ),
+                                FileStruct(
+                                    "pcnhmmw",
+                                    260275,
+                                ),
+                                FileStruct(
+                                    "pptjlrn.pls",
+                                    214496,
+                                ),
+                                FileStruct(
+                                    "vmbvl.zvh",
+                                    315647,
+                                ),
+                            ],
+                            name: "pppmp",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    251509,
+                                ),
+                                FileStruct(
+                                    "slsnbzm",
+                                    331578,
+                                ),
+                                FileStruct(
+                                    "wlchqtzj.ljz",
+                                    158534,
+                                ),
+                                FileStruct(
+                                    "wmdvjs.tjb",
+                                    341686,
+                                ),
+                            ],
+                            name: "shcwlggz",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "gfprhn.rjj",
+                        316797,
+                    ),
+                    FileStruct(
+                        "nblfzrb.cjr",
+                        263838,
+                    ),
+                ],
+                name: "nrqhstc",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "bflpjwd.wbj",
+                                                259462,
+                                            ),
+                                            FileStruct(
+                                                "cvh.fnr",
+                                                177686,
+                                            ),
+                                        ],
+                                        name: "fst",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "rsrfc",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "bbbd.ncl",
+                                    344114,
+                                ),
+                                FileStruct(
+                                    "gfprhn.rjj",
+                                    282111,
+                                ),
+                                FileStruct(
+                                    "jhc",
+                                    327171,
+                                ),
+                                FileStruct(
+                                    "qwzwmffq.chl",
+                                    43867,
+                                ),
+                            ],
+                            name: "zcsqst",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "fst.jmg",
+                                                            218902,
+                                                        ),
+                                                    ],
+                                                    name: "fst",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "zvspnvfr",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [],
+                            name: "zrz",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "gfprhn.rjj",
+                        94599,
+                    ),
+                    FileStruct(
+                        "hql.hss",
+                        298110,
+                    ),
+                    FileStruct(
+                        "vmpgqbcd",
+                        230201,
+                    ),
+                    FileStruct(
+                        "zvspnvfr",
+                        58810,
+                    ),
+                ],
+                name: "vwc",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "bbfqftlg.pll",
+                                    167740,
+                                ),
+                            ],
+                            name: "lllph",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "wmn",
+                        41390,
+                    ),
+                ],
+                name: "wlpdphhg",
+                size_cache: 0,
+            },
+        },
+        RefCell {
+            value: Dir {
+                directories: [
+                    RefCell {
+                        value: Dir {
+                            directories: [
+                                RefCell {
+                                    value: Dir {
+                                        directories: [],
+                                        files: [
+                                            FileStruct(
+                                                "vmpgqbcd",
+                                                141530,
+                                            ),
+                                        ],
+                                        name: "hfm",
+                                        size_cache: 0,
+                                    },
+                                },
+                                RefCell {
+                                    value: Dir {
+                                        directories: [
+                                            RefCell {
+                                                value: Dir {
+                                                    directories: [],
+                                                    files: [
+                                                        FileStruct(
+                                                            "sdwnsgwv.mjm",
+                                                            46251,
+                                                        ),
+                                                    ],
+                                                    name: "rnhn",
+                                                    size_cache: 0,
+                                                },
+                                            },
+                                        ],
+                                        files: [],
+                                        name: "nblfzrb",
+                                        size_cache: 0,
+                                    },
+                                },
+                            ],
+                            files: [
+                                FileStruct(
+                                    "gbvpw.bpm",
+                                    154990,
+                                ),
+                                FileStruct(
+                                    "jhc",
+                                    148488,
+                                ),
+                                FileStruct(
+                                    "jhc.zlg",
+                                    301795,
+                                ),
+                                FileStruct(
+                                    "rvhcfsrw.crj",
+                                    115285,
+                                ),
+                                FileStruct(
+                                    "wsqdt",
+                                    320034,
+                                ),
+                            ],
+                            name: "nblfzrb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "hfm",
+                                    140923,
+                                ),
+                                FileStruct(
+                                    "zvspnvfr.mvl",
+                                    228981,
+                                ),
+                            ],
+                            name: "rlsvrfrb",
+                            size_cache: 0,
+                        },
+                    },
+                    RefCell {
+                        value: Dir {
+                            directories: [],
+                            files: [
+                                FileStruct(
+                                    "gnhh.hpw",
+                                    182280,
+                                ),
+                                FileStruct(
+                                    "vvlt.pgf",
+                                    95206,
+                                ),
+                            ],
+                            name: "zvspnvfr",
+                            size_cache: 0,
+                        },
+                    },
+                ],
+                files: [
+                    FileStruct(
+                        "jhc.tfs",
+                        63568,
+                    ),
+                    FileStruct(
+                        "vzgwwjq.zbp",
+                        29977,
+                    ),
+                ],
+                name: "zpbh",
+                size_cache: 0,
+            },
+        },
+    ],
+    files: [
+        FileStruct(
+            "cprq.fmm",
+            3868,
+        ),
+        FileStruct(
+            "lthcng.gnf",
+            324644,
+        ),
+        FileStruct(
+            "nblfzrb.mrr",
+            133181,
+        ),
+        FileStruct(
+            "sfrbjmmh.jnj",
+            140568,
+        ),
+        FileStruct(
+            "vmpgqbcd",
+            202279,
+        ),
+    ],
+    name: "/",
+    size_cache: 0,
+}
